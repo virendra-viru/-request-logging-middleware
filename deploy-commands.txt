@@ -1,0 +1,25 @@
+# COPY AND RUN THESE COMMANDS ONE BY ONE
+
+# Step 1: Go to this URL in your browser and create a new repository:
+# https://github.com/new
+# - Repository name: request-logging-middleware
+# - Make it Public
+# - DO NOT add README
+# - Click "Create repository"
+
+# Step 2: After creating the repo, GitHub will show you commands.
+# OR use these (replace YOUR_USERNAME with your GitHub username):
+
+git remote add origin https://github.com/YOUR_USERNAME/request-logging-middleware.git
+git branch -M main
+git push -u origin main
+
+# Step 3: After pushing, go to Railway to deploy:
+# https://railway.app
+# - Sign in with GitHub
+# - Click "New Project" → "Deploy from GitHub repo"
+# - Select "request-logging-middleware"
+# - Click "Settings" → "Generate Domain"
+# - Copy your public URL!
+
+# Your app will be live at: https://request-logging-middleware-production.up.railway.app
