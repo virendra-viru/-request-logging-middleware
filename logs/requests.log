@@ -1,0 +1,2 @@
+{"timestamp":"2025-11-12T19:52:08.052Z","method":"GET","url":"/health","ip":"::1"}
+{"timestamp":"2025-11-12T19:52:19.130Z","method":"GET","url":"/api/books","ip":"::1"}
