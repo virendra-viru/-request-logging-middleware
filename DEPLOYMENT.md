@@ -1,6 +1,6 @@
 # Quick Deployment Guide
 
-## Your App is Ready to Deploy! 🚀
+## Your App is Ready to Deploy
 
 Your Express middleware is built and ready. Follow these steps to get a public URL.
 
@@ -63,11 +63,11 @@ git push -u origin main
 
 ## Your Deployment Files
 
-✅ `render.yaml` - Render configuration
-✅ `Dockerfile` - Docker configuration
-✅ `docker-compose.yml` - Local Docker setup
-✅ `.env.production` - Production environment variables
-✅ `package.json` - Updated with build script
+- `render.yaml` - Render configuration
+- `Dockerfile` - Docker configuration
+- `docker-compose.yml` - Local Docker setup
+- `.env.production` - Production environment variables
+- `package.json` - Updated with build script
 
 ## Test Your Deployed App
 
@@ -79,10 +79,10 @@ curl https://YOUR-APP-URL.onrender.com/api/books
 
 ## Current Local Status
 
-✅ Server running on http://localhost:3000
-✅ Code compiled and ready
-✅ Git repository initialized
-✅ All files committed
+- Server running on http://localhost:3000
+- Code compiled and ready
+- Git repository initialized
+- All files committed
 
 ## Need Help?
 

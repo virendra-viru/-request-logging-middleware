@@ -1,6 +1,6 @@
 # Deploy Your App NOW - Step by Step
 
-## ✅ Your app is ready! Follow these exact steps:
+## Your app is ready! Follow these exact steps:
 
 ### Step 1: Create GitHub Repository (2 minutes)
 
@@ -41,7 +41,7 @@ If asked for credentials, use a **Personal Access Token** (not password):
 8. Click **"Settings"** → **"Generate Domain"**
 9. **COPY YOUR URL!** It will look like: `https://request-logging-middleware-production.up.railway.app`
 
-### Step 4: Test Your Live App! 🎉
+### Step 4: Test Your Live App
 
 Replace YOUR-URL with your Railway URL:
 
@@ -65,19 +65,19 @@ curl https://YOUR-URL/api/books
 
 ## Your Current Status
 
-✅ Code is compiled and ready
-✅ Git repository initialized  
-✅ All files committed
-✅ Deployment configs created
-✅ Local server running on http://localhost:3000
+- Code is compiled and ready
+- Git repository initialized  
+- All files committed
+- Deployment configs created
+- Local server running on http://localhost:3000
 
 ## What You'll Get
 
-- ✅ Public HTTPS URL
-- ✅ Automatic deployments on git push
-- ✅ Free hosting
-- ✅ SSL certificate included
-- ✅ Logs and monitoring
+- Public HTTPS URL
+- Automatic deployments on git push
+- Free hosting
+- SSL certificate included
+- Logs and monitoring
 
 ## Quick Links
 
